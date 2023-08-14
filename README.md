@@ -4,7 +4,7 @@
 >**DESAFIOS BÁSICOS:**
 
 - [x] [Programa - Calcular valor de viagem - Parte 1](https://github.com/viinicius-medeiross/Estudos-basicos-JavaScript/blob/master/01%20-%20VARIAVEIS%20E%20OPERADORES/primeiro_desafio.js)
-- [x] [Programa - Calcular valor de viagem - Parte 2](https://github.com/viinicius-medeiross/Linguagem-de-programa-o-em-C/blob/master/Programa%C3%A7%C3%A3o%20C/DescontoXerox/main.c)
+- [x] [Programa - Calcular valor de viagem - Parte 2](https://github.com/viinicius-medeiross/Estudos-basicos-JavaScript/blob/master/02%20-%20CONDICIONAIS/segundo_desafio.js)
 - [x] [Programa - Média Alunos](https://github.com/viinicius-medeiross/Estudos-basicos-JavaScript/blob/master/03%20-%20LISTA%20EXERC%C3%8DCIOS%20JS/01%20-%20NOTAS.js)
 - [x] [Programa - Cálculo IMC](https://github.com/viinicius-medeiross/Estudos-basicos-JavaScript/blob/master/03%20-%20LISTA%20EXERC%C3%8DCIOS%20JS/02%20-%20IMC.js)
 - [x] [Programa - Pagamento produto](https://github.com/viinicius-medeiross/Estudos-basicos-JavaScript/blob/master/03%20-%20LISTA%20EXERC%C3%8DCIOS%20JS/03%20-%20PAGAMENTO.js)
